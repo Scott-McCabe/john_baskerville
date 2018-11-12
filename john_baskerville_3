@@ -76,10 +76,10 @@
         
         -->
         
-            <table>
+            <table style="width: 100%" border="1px">
                 <caption>Foundsires that offer versions of Baskerville</caption>
             
-                    <table style="width: 100%" border="1px">
+                    <tr>
                         <th>Hot type</th>
                         <th>Cold type</th>
                         <th>Digital type</th>
