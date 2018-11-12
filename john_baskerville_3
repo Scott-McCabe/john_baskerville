@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
     <meta charset="utf-8" />
     <title>John Baskerville</title>
@@ -42,7 +39,7 @@
             
             <p>Baskerville’s work was criticised by jealous competitors and soon fell out of favour. Since the 1920s, however, numerous revivals of Baskerville have been released by Linotype, Monotype, and other type foundries. Émigré released a popular revival of the typeface in 1996 called Mrs Eaves, named for Baskerville’s wife, Sarah Eaves. Baskerville represents the peak of Transitional type face design and bridges the gap between Old Style and Modern type design.</p>
 
-            
+    <!--        
         <ul>
             <li>Hot Type 
                 <br>
@@ -59,7 +56,7 @@
             <li>Cold type
                 <ul>
                     <li>Autologic</li>
-                    <li>Berthold </li>
+                    <li>Berthold</li>
                     <li>Compugraphic </li>
                     <li>Hell AG</li>
                     <li>Monotype </li>
@@ -77,8 +74,48 @@
             </li>
          </ul>        
         
+        -->
         
-        <h1>List of typefaces</h1>
+            <table>
+                <caption>Foundsires that offer versions of Baskerville</caption>
+            
+                    <tr>
+                        <th>Hot type</th>
+                        <th>Cold type</th>
+                        <th>Digital type</th>
+                    </tr>
+                    <tr>
+                        <td>Deberny & Peignot</td>
+                        <td>autologic</td>
+                        <td>linotype</td>
+                    </tr>
+                    <tr>
+                        <td>Fry Foundry</td>
+                        <td>Berthold</td>
+                        <td>URW++</td>
+                    </tr>
+                    <tr>
+                        <td>American Type Founders</td>
+                        <td>Compugraphic</td>
+                        <td>Monotype</td>
+                    </tr>
+                    <tr>
+                        <td>Linotype</td>
+                        <td>Hell AG/td>
+                        <td>Bitstream</td>
+                    </tr>
+                    <tr>
+                        <td>Lanston Monotype</td>
+                        <td>Monotype</td>
+                    </tr>
+            </table>
+            
+            
+            
+            
+            
+            
+            <h1>List of typefaces</h1>
             
         <p>The following lust presents the typefaces our designers are best known for and some of the foundries who still produce them.</p>
 <!-- Part 1 -->
