@@ -79,7 +79,7 @@
             <table>
                 <caption>Foundsires that offer versions of Baskerville</caption>
             
-                    <tr>
+                    <table style="width: 100%" border="1px">
                         <th>Hot type</th>
                         <th>Cold type</th>
                         <th>Digital type</th>
