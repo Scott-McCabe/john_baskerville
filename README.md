@@ -11,4 +11,5 @@ History of Type
 
 - [History of Type 1](https://scott-mccabe.github.io/john_baskerville/history1.html)
 - [History of Type 2](https://scott-mccabe.github.io/john_baskerville/history2.html)
+- [History of Type 3](https://scott-mccabe.github.io/john_baskerville/history3.html)
 
