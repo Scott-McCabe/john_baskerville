@@ -78,7 +78,7 @@ nav {
     left: 0;
     margin: 0;
     width: 100%;
-    background-color: #666; <!-- put in  rgba to make it look transparent -->
+    background-color: rgba(204,0,102,.75); 
     padding: 1em 0;
     font-size: 0.75em;
     position: fixed;
@@ -119,9 +119,10 @@ blackaoute cite {
 
 img {
     display: block;
-    margin; 4em auto;
-    padding: 0;
-    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 0px 30px 30px 30px;
 }
 
 /* ------ FOOTER ------ */
@@ -140,5 +141,3 @@ hr {
     color: #c06;
     border: 0 none; 
 }
-
-
